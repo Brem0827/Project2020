@@ -11,16 +11,14 @@
     <title>Document</title>
     <!-- CSS의 외부 적용 방식-->
     <link rel="stylesheet" href="main.css">
-    <!-- CSS의 내부 적용 방식-->
-    <style>
-        header{
-            color:violet;
-        }
-    </style>
+    <!-- normalize.css-->
+    <link rel="stylesheet" href="./vendor/normalize.css">
+    <!-- normalize.css CDM방식 적용
+    <link rel="stylesheet" href="https://yarnpkg.com/en/package/normalize.css">
+    -->
 </head>
 <body>
-    <!-- CSS의 직접 적용 방식-->
-    <header style="color: blue;">헤더 영역</header>
+    <header>헤더 영역</header>
     <nav>메뉴영역</nav>
     <article>
         <section>첫번째 섹션</section>

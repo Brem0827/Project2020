@@ -3,6 +3,13 @@
     *Update : 2020.04.10
     *Author:LeehyunJong
 */
+/*
+[선택자] {[속성]: [속성값];}
+
+우선순위
+id > class > tag
+
+*/
 header{
-    color:brown;
+    color:red;
 }

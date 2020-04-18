@@ -49,10 +49,18 @@ ul li a{
 }
 
 .article-bg2{
-    height:450px;
+    height:650px;
     padding:15px;
     text-align:center;
     background-color:rgb(14,124,0);
+
+}
+
+.article-bg3{
+    height:450px;
+    padding:15px;
+    text-align:center;
+    background-color:rgb(124,82,0);
 
 }
 

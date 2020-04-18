@@ -1,5 +1,5 @@
 /*
-    *File Name: index.html v0.3.0
+    *File Name: index.html v0.4.0
     *Update : 2020.04.14
     *Author:LeehyunJong
 */
@@ -64,6 +64,13 @@ ul li a{
 
 }
 
+.article-bg4{
+    width:600px;
+    height:380px;
+    padding:15px;
+    text-align:center;
+    background-color:rgb(210,102,0);
+}
 /* box model test */
 .box1{
     display:inline-block;
